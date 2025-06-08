@@ -1,5 +1,5 @@
-# TinyLlama
-Anime Q&amp;A System with Haystack &amp; TinyLlama
+# TinyLlama and Mistral 
+Anime Q&amp;A System with Haystack &amp; TinyLlama ;Mistral
 
 This project implements an anime question-answering system using Haystack, TinyLlama (served locally via Ollama), and Gradio. The system allows users to ask questions about a dataset of anime information, and it generates contextually relevant, natural language answers.
 
